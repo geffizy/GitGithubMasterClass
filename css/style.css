@@ -2,3 +2,9 @@ div.firstDiv
 {
   height: red;
 }
+
+.content
+{
+  background-color: pink;
+  text-transform: uppercase;
+}
